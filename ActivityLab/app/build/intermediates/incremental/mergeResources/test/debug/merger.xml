@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\AndroidstudioProjects\ActivityLab\app\src\androidTest\res"/><source path="E:\AndroidstudioProjects\ActivityLab\app\build\generated\res\rs\test\debug"/><source path="E:\AndroidstudioProjects\ActivityLab\app\build\generated\res\generated\test\debug"/></dataSet><mergedItems/></merger>
+<merger version="3"><dataSet config="main"><source path="E:\GitHub\androidcoursera\ActivityLab\app\src\androidTest\res"/><source path="E:\GitHub\androidcoursera\ActivityLab\app\build\generated\res\rs\test\debug"/><source path="E:\GitHub\androidcoursera\ActivityLab\app\build\generated\res\generated\test\debug"/></dataSet><mergedItems/></merger>

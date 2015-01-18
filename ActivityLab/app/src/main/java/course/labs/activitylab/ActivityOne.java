@@ -69,7 +69,7 @@ public class ActivityOne extends Activity {
 
 				// Create an intent stating which Activity you would like to
 				// start
-				Intent intent = new Intent("android.intent.action.ActivityTwo");
+				Intent intent = new Intent(ActivityOne.this, ActivityTwo.class);
 
 				// Launch the Activity using the intent
                 startActivity(intent);
@@ -157,7 +157,8 @@ public class ActivityOne extends Activity {
 		// TODO:
 		// Update the appropriate count variable
 		// Update the user interface
-
+        mRestart++;
+        displayCounts();
 
 	}
 
