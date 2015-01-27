@@ -1,1 +1,2 @@
 E:\GitHub\androidcoursera\IntentsLab\app\build\intermediates\classes\debug
+E:\GitHub\androidcoursera\IntentsLab\app\build\intermediates\pre-dexed\debug\robotium-solo-5.2.1-379feb5bb3254bc8667f2ba7ce71df7ae500edf7.jar
