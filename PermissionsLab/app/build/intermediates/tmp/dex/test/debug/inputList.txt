@@ -1,0 +1,1 @@
+D:\AndroidStudioProjects\PermissionsLab\app\build\intermediates\classes\test\debug
